@@ -1,7 +1,7 @@
 {
     "adders": false,
     "addmsg": "Run your own selfbot in github.com/goodop/MINI-SELFBOTV2",
-    "apikey": "imjustgood",
+    "apikey": "b047b6baa1b5906e0f41fea308e12e60",
     "blacklist": [],
     "gname": {},
     "join": false,
@@ -9,7 +9,7 @@
     "keykick": "",
     "leave": false,
     "leavemsg": "",
-    "main": "api.imjustgood.com",
+    "main": "b047b6baa1b5906e0f41fea308e12e60",
     "maker": [
         "u569a335d8820a2d399c3d586c246111f",
         "u5ce7e15b46967f7f8db6b33909420c9c",
